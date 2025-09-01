@@ -207,7 +207,7 @@
     "@fastify/busboy": "^3.0.0",
     "@firebase/database-compat": "^2.0.0",
     "@firebase/database-types": "^1.0.6",
-    "@types/node": "^22.8.7",
+    "@types/node": "^22.17.1",
     "farmhash-modern": "^1.1.0",
     "google-auth-library": "^9.14.2",
     "jsonwebtoken": "^9.0.0",
